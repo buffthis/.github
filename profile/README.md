@@ -1,5 +1,4 @@
-<img src="https://file.notion.so/f/f/77f2e150-05f9-42c4-8a23-b656b39df0bf/67c28ccb-7062-42ad-b757-c72675cf2fea/neon-logo-sky-lg.png?table=block&id=f8777a52-9adc-4ae9-997a-1ae26fca172c&spaceId=77f2e150-05f9-
-42c4-8a23-b656b39df0bf&expirationTimestamp=1725278400000&signature=nhPAR14VdXRHiZ3txPTKdxnf_wEy2zyzG6qJscmhAdA&downloadName=neon-logo-sky-lg.png" width="300px">
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F77f2e150-05f9-42c4-8a23-b656b39df0bf%2F67c28ccb-7062-42ad-b757-c72675cf2fea%2Fneon-logo-sky-lg.png?table=block&id=f8777a52-9adc-4ae9-997a-1ae26fca172c&spaceId=77f2e150-05f9-42c4-8a23-b656b39df0bf&width=600&userId=1c35f703-de4c-438d-b88c-a038589da706&cache=v2" width="500px">
 </br></br></br></br></br>
 
 # 소개
