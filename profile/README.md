@@ -5,7 +5,7 @@
 IT 서비스를 통해 서로 신뢰할 수 있는 사회를 만드는 것을 목표로 합니다.
 </br></br></br></br></br>
 -->
-### 링크
+<!--### 링크
 - <a href="https://neon7.site/" target="_blank" rel="noopener noreferrer">메인 페이지</a>
-
 </br></br></br></br></br>
+-->
